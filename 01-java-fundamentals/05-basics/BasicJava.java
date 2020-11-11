@@ -10,7 +10,6 @@ public class BasicJava {
         }
     }
 
-
     //print odd 1-255
 
     public void printOdd(){
@@ -20,7 +19,6 @@ public class BasicJava {
         }
     }
     }
-
 
     //print sum
 
@@ -33,7 +31,6 @@ public class BasicJava {
     }
 }
 
-
     //iterating through an array
 
     public void iterateArray(int[] arr){
@@ -42,7 +39,6 @@ public class BasicJava {
 
     }
 }
-
 
     //find max
 
@@ -68,7 +64,6 @@ public class BasicJava {
     System.out.println(avgSum/arr3.length);
 }
 
-
     //array with odd numbers
 
     public void arrayOddNum(){
@@ -82,7 +77,6 @@ public class BasicJava {
         System.out.println(arrayOddNum);
 }
 
-
     //greater than y
 
     public void arrayY(int[] arr4, int y){
@@ -93,8 +87,6 @@ public class BasicJava {
         }
     }System.out.println(count);
 }
-
-
 
     //square the values
 
@@ -107,8 +99,6 @@ public class BasicJava {
     }
     System.out.println(newArray);
 }
-
-
     //eliminate negative numbers
 
     public void elimNegs(int[] arrayEliminate){
@@ -123,8 +113,6 @@ public class BasicJava {
     }
     System.out.println(arrayPositive);
 }
-
-
 
     //max, min, average
 
@@ -149,7 +137,6 @@ public class BasicJava {
         arrayValues.add(sum2);
         System.out.println(arrayValues);
     }
-
 
     //shifting the values in the array
 
