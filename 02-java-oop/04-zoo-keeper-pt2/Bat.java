@@ -1,17 +1,16 @@
+public class Bat extends MammalClass {
 
-public class Bat{
-    int energyLevel = 300;
 
-    public void fly(){
-        System.out.println("I'm like a bird, I can fly away");
-        energyLevel -= 50;
-    }
-    public void eatHumans(){
-        energyLevel += 25;
-    }
-    public void attackTown(){
-        System.out.println("Oh No, CoronaVirus");
-        energyLevel -= 100;
-    }
-
+	public void fly() {
+		System.out.println("flap flip flap flip");
+		energylevel -= 50;
+	}
+	public void eatHumans() {
+		System.out.println("Ohno CoronaVirus in the humans!");
+		energylevel += 25;
+	}
+	public void attackTown() {
+		System.out.println("crackle crackle crackle");
+		energylevel -= 100;
+	}
 }
