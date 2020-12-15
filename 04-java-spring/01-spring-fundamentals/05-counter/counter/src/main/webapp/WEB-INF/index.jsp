@@ -5,10 +5,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Visit Counter</title>
+<title>Visits Counter</title>
 </head>
 <body>
 	<h1>Counter Application</h1>
-	<a href="/counter">Visit Counter Results</a>
+	<a href="/counter">Visits Counter Results</a>
 </body>
 </html>
